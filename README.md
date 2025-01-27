@@ -1,6 +1,8 @@
 # HR-Analytics-Dashboard
 Excited to Share My HR Analytics Dashboard!
+
 Project: HR Analytics Dashboard
+
 Tools Used: Microsoft Power BI | Microsoft Excel | Power Query
 
 I’m thrilled to showcase my latest project: a comprehensive HR Analytics Dashboard! This dashboard offers actionable insights into employee attrition, helping stakeholders uncover trends, analyze patterns, and implement data-driven strategies to reduce attrition rates.
